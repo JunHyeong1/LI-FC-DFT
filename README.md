@@ -1,7 +1,10 @@
 # Linear Interpolation Fractional Charge Density Functional Theory (LI-FC-DFT)
+This is a program that supports single-point energy, geometry optimization, and vibrational frequency calculations of systems with fractional number of electrons by imposing the Perdew-Parr-Levy-Balduz condition.
+
+
 The program is written on geomeTRIC code. Currently, it supports PySCF and Jaguar.
 
-
+I will try my best to update README... If this page is not helpful to you, please leave a message on 'Issues' tab or send an email to me.
 
 Contact Email: kjh0910q@kaist.ac.kr
 ## Requirements
