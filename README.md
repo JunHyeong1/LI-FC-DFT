@@ -5,7 +5,7 @@ The program is written on geomeTRIC code. Currently, it supports PySCF (freeware
 
 Sample calculations and useful scripts will be uploaded very soon.
 
-I will try my best to update README... If this page is not helpful to you, please leave a message on 'Issues' tab or send an email to me.
+I will try my best to update README... If this page is not helpful to you, please leave a message on 'Issues' tab or contact me.
 
 Contact Email: kjh0910q@kaist.ac.kr
 ## Requirements
