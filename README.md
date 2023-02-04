@@ -7,9 +7,12 @@ Jun-Hyeong Kim, Dongju Kim, Weitao Yang, and Mu-Hyun Baik. Fractional Charge Den
 
 Contact Email: kjh0910q@kaist.ac.kr
 ## Requirements
+- Python >= 3.6
 - <a href="https://github.com/leeping/geomeTRIC">geomeTRIC 
 - <a href="https://pyscf.org/">PySCF 
 - <a href="https://www.schrodinger.com/products/jaguar">Jaguar
   
 ## How to Install  
-
+1. Install geomeTRIC.
+  `pip install geomeTRIC --prefix <path>`
+  
