@@ -1,8 +1,9 @@
 # Linear Interpolation Fractional Charge Density Functional Theory (LI-FC-DFT)
 This is a program that supports single-point energy, geometry optimization, and vibrational frequency calculations of systems with fractional number of electrons by imposing the Perdew-Parr-Levy-Balduz condition.
 
+The program is written on geomeTRIC code. Currently, it supports PySCF (freeware) and Jaguar (commercially available).
 
-The program is written on geomeTRIC code. Currently, it supports PySCF and Jaguar.
+Sample calculations and useful scripts will be uploaded very soon.
 
 I will try my best to update README... If this page is not helpful to you, please leave a message on 'Issues' tab or send an email to me.
 
@@ -31,3 +32,8 @@ Contact Email: kjh0910q@kaist.ac.kr
 Please cite the paper below if this code was directly or indirectly helpful to your research.
 
 Jun-Hyeong Kim, Dongju Kim, Weitao Yang, and Mu-Hyun Baik. Fractional Charge Density Functional Theory and Its Application to the Electro-Inductive Effect. Submitted - ChemRxiv: 10.26434/chemrxiv-2023-l77m4
+
+## Common misunderstandings
+- FC stands for 'Fractional Charge', not 'Fried chicken', 'Football Club', and 'Fitness Center'.
+
+- DFT means 'Density Functional Theory', not 'Discrete Fourier Transformation' and 'Daejeon Football Club'.
