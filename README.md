@@ -8,6 +8,6 @@ Jun-Hyeong Kim, Dongju Kim, Weitao Yang, and Mu-Hyun Baik. Fractional Charge Den
 ## Requirements
 - geomeTRIC: https://github.com/leeping/geomeTRIC
 - <a href="https://pyscf.org/">PySCF 
-  or Jaguar
+- <a href="https://www.schrodinger.com/products/jaguar">Jaguar
   
 Contact Email: kjh0910q@kaist.ac.kr
