@@ -5,9 +5,11 @@ Please cite the paper below if this code was helpful.
 
 Jun-Hyeong Kim, Dongju Kim, Weitao Yang, and Mu-Hyun Baik. Fractional Charge Density Functional Theory and Its Application to the Electro-Inductive Effect. To be submitted.
 
+Contact Email: kjh0910q@kaist.ac.kr
 ## Requirements
-- geomeTRIC: https://github.com/leeping/geomeTRIC
+- <a href="https://github.com/leeping/geomeTRIC">geomeTRIC 
 - <a href="https://pyscf.org/">PySCF 
 - <a href="https://www.schrodinger.com/products/jaguar">Jaguar
   
-Contact Email: kjh0910q@kaist.ac.kr
+## How to Install  
+
