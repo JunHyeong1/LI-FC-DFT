@@ -14,5 +14,7 @@ Contact Email: kjh0910q@kaist.ac.kr
   
 ## How to Install  
 1. Install geomeTRIC.
+  
   `pip install geomeTRIC --prefix <path>`
   
+2. 
