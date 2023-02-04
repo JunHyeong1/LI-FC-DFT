@@ -15,6 +15,12 @@ Contact Email: kjh0910q@kaist.ac.kr
 ## How to Install  
 1. Install geomeTRIC.
   
-- `pip install geomeTRIC --prefix <path>`
+  - `pip install geomeTRIC --prefix <path>`
   
-2. 
+2. Go to the directory.
+  
+  - `cd <path>/geomeTRIC`
+
+3. Clone the files.
+  
+  - `git clone ~~`
