@@ -515,9 +515,6 @@ class Jaguar(Engine):
         self.assert_convergence = False
 
     def load_jaguar_input(self, jaguar_input):
-        """
-        F**king PREDICTOR...        
-        """
         reading_molecule, found_geo, found_force = False, False, False
         jag_temp = []  # store a template of the input file for generating new ones
         geom = []
@@ -570,7 +567,7 @@ class Jaguar(Engine):
                     if line.find('igeopt') != -1:
                         force_line = idx
 
-        # Polishing the structure... F**king PREDICTOR...
+        # Polishing the structure... 
         natm = geom_end - geom_start + 1
         atom = []
         coords = []
