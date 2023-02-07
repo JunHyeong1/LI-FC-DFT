@@ -34,6 +34,6 @@ Please cite the paper below if this code was directly or indirectly helpful to y
 Jun-Hyeong Kim, Dongju Kim, Weitao Yang, and Mu-Hyun Baik. Fractional Charge Density Functional Theory and Its Application to the Electro-Inductive Effect. Submitted - ChemRxiv: 10.26434/chemrxiv-2023-l77m4
 
 ## Common Misunderstandings
-- FC stands for 'Fractional Charge', not 'Fried chicken', 'Football Club', and 'Fitness Center'.
+- FC stands for 'Fractional Charge', not 'Fried Chicken', 'Football Club', and 'Fitness Center'.
 
-- DFT means 'Density Functional Theory', not 'Discrete Fourier Transformation' and 'Daejeon Football Club'.
+- DFT means 'Density Functional Theory', not 'Discrete Fourier Transformation' and 'Daejeon Football Team'.
