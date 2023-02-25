@@ -26,6 +26,9 @@ Contact Email: kjh0910q[at]kaist.ac.kr
 3. Clone the files.
   
   - `git clone https://github.com/JunHyeong1/LI-FC-DFT.git`
+  
+4. (Jaguar users only) Open 'engine.py' and set the variable for the scratch directory. This is to prevent crashing resulted from assigning wrong PID at the top level.
+  - `myscratch = 'path-for-scratch-directory' + result_str`
 
 ## Citation
 
