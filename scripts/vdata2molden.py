@@ -1,3 +1,5 @@
+#!/home/baikgrp/calcs/JH2/prog/python3.6/bin/python3
+
 """
 This code is for personal usage. Don't fix and move this code in any occasion. 
 If I find you did that, I immediately force you to recover the hard drive or write the same code.
@@ -14,7 +16,7 @@ def convert_to_molden(mydir, filename):
         lines = f.readlines()
         addlist = []
         InOut = False
-        for line in lines:
+        for idx, line in enumerate(lines):
             if 'Iteration' in line: InOut = True
             if InOut and line == '\n':
                 mylist.append(addlist)
@@ -22,11 +24,11 @@ def convert_to_molden(mydir, filename):
             elif InOut and 'Iteration' not in line:
                 addlist.append(line)
             else: pass
+            if idx == len(lines) - 1: mylist.append(addlist)
     
     coords = mylist[0]
     freq = []
     norm = []
-    
     for idx, info in enumerate(mylist):
         if idx != 0:
             freq.append(info[0])
@@ -72,5 +74,5 @@ if __name__ == "__main__":
     mydir = os.getcwd()
     myfile = os.listdir()
     for files in myfile:
-        if 'vdata_last' in files:
+        if 'vdata_last' in files and 'swp' not in files:
             convert_to_molden(mydir, files)
