@@ -34,7 +34,7 @@ Contact Email: kjh0910q[at]kaist.ac.kr
 
 Please cite the paper below if this code was directly or indirectly helpful to your research.
 
-Jun-Hyeong Kim, Dongju Kim, Weitao Yang, and Mu-Hyun Baik. Fractional Charge Density Functional Theory and Its Application to the Electro-Inductive Effect. Submitted - ChemRxiv: 10.26434/chemrxiv-2023-l77m4
+Jun-Hyeong Kim, Dongju Kim, Weitao Yang, and Mu-Hyun Baik. Fractional Charge Density Functional Theory and Its Application to the Electro-inductive Effect. J. Phys. Chem. Lett. ASAP - ChemRxiv: 10.26434/chemrxiv-2023-l77m4
 
 ## Common Misunderstandings
 - FC stands for 'Fractional Charge', not 'Fried Chicken', 'Football Club', and 'Fitness Center'.
